@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Things to do:
+  * Study DevOps:
+    * GitHub
+    * Jenkins
+    * Docker
+  * Courseworks
+    
